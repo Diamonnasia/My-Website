@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    font-family: 'Palette Mosaic', cursive;
+}
+
+p {
+    font-family: 'Ramaraja', serif;
+}
+
+p {
+    font-size: 25px;
+}
+.images {
+  display:flex;
+    justify-content: space-around;
+    padding: 5px;
+    border:  10px dashed #03a9fc;
+    margin:5px;
+}
